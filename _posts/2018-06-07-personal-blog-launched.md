@@ -2,7 +2,6 @@
 layout: post
 title: "Launching my personal blog"
 date: 2018-06-07
-category: blog_posts
 tags: [personal,blog_updates]
 ---
 
