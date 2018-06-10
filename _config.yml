@@ -1,3 +1,4 @@
 name: Manas Chaturvedi | Personal Blog
-markdown: kramdown
 permalink: /:slug/:year/:month/:day/:title
+markdown: kramdown
+highlighter: rouge
