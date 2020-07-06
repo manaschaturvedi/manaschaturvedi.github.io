@@ -15,3 +15,16 @@ tags: [book_notes]
 
 - <p>Forget about goals, focus on systems instead. Goals are about the results you want to achieve. Systems are about the processes that lead to those results.Winners and losers have the same goals.</p>
 
+- <p>Behavior that is incongruent with the self will not last. You may want more money, but if your identity is someone who consumes rather than creates, then you’ll continue to be pulled toward spending rather than earning. True behavior change is identity change.</p>
+
+- <p>The goal is not to read a book, the goal is to become a reader. The goal is not to run a marathon, the goal is to become a runner. The goal is not to learn an instrument, the goal is to become a musician.</p>
+
+- <p>The more you repeat a behavior, the more you reinforce the identity associated with that behavior. The most practical way to change who you are is to change what you do.</p>
+
+- <p>
+    1) Decide the type of person you want to be.<br>
+    2) Prove it to yourself with small wins</p>
+
+- <p>Ask yourself, “Who is the type of person that could get the outcome I want? Who is the type of person that could run a successful start-up?"</p>
+
+- <p>The first step is not what or how, but who. You need to know who you want to be.</p>
