@@ -28,3 +28,7 @@ tags: [book_notes]
 - <p>Ask yourself, “Who is the type of person that could get the outcome I want? Who is the type of person that could run a successful start-up?"</p>
 
 - <p>The first step is not what or how, but who. You need to know who you want to be.</p>
+
+- <p>Habit formation is incredibly useful because the conscious mind is the bottleneck of the brain. It can only pay attention to one problem at a time. Our brain is always working to preserve your conscious attention for whatever task is most essential. Whenever possible, the conscious mind likes to pawn off tasks to the nonconscious mind to do automatically. This is precisely what happens when a habit is formed. Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks.</p>
+
+- <p>It’s only by making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity. Building habits in the present allows you to do more of what you want in the future.</p>
