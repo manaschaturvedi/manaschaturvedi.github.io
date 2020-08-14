@@ -26,4 +26,3 @@ tags: [notes]
 - <p>In the above example, run docker-compose up in order to start up your application. In this case:
     <br> 1) Compose pulls a Redis image, builds an image for your code, and starts the services you defined. In this case, the code is statically copied into the image at build time
     <br> 2) Enter http://localhost:5000/ in a browser to see the application running
-</p>
